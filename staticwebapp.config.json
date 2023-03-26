@@ -1,7 +1,7 @@
   "routes": [
     {
       "route": "/index.html",
-      "redirect": "https://ovfkonsern.sharepoint.com/sites/tunet/",
-      "statusCode": 301
+      "statusCode": 301,
+      "redirect": "https://ovfkonsern.sharepoint.com/sites/tunet/"
     }
   ]
