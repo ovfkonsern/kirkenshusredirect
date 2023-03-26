@@ -1,2 +1,2 @@
 # intranetredirect
-Enkel redirect 302 for tunet sharepoint site
+Enkel redirect 301 for tunet sharepoint site
