@@ -2,6 +2,6 @@
     {
       "route": "/index.html",
       "redirect": "https://ovfkonsern.sharepoint.com/sites/tunet/",
-      "statusCode": 302
+      "statusCode": 301
     }
   ]
